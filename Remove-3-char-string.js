@@ -8,3 +8,10 @@ function myFunction(a)
 
 return a.substring(3);
 }
+
+// or done 
+// function myFunction(a)
+// {
+
+// return a.substring(3);
+// }
